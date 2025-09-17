@@ -16,7 +16,7 @@ public class EmployeeCopyConstructor {
 
     }
     
-
+ 
 public static void main(String args[])
 {
     EmployeeCopyConstructor emp1 = new EmployeeCopyConstructor(101, "John Doe");
